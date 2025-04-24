@@ -1,0 +1,6 @@
+Flask==2.3.2             # Lightweight web framework
+requests==2.31.0         # For making HTTP requests
+netifaces==0.11.0        # Interface information for networking
+scapy==2.5.0             # Packet manipulation and network tools
+socketio==5.8.0          # Real-time bidirectional communication
+python-dotenv==1.0.0     # For .env file configuration
